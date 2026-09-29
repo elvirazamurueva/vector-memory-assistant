@@ -1,0 +1,6 @@
+openai>=1.40.0
+python-dotenv>=1.0.1
+pinecone>=6.0.0
+requests>=2.31.0
+pyTelegramBotAPI>=4.37.0
+PySocks>=1.7.1
